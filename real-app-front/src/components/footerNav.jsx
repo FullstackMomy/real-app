@@ -14,18 +14,6 @@ export const FooterNav = () => {
             </NavLink>
           </li>
 
-          <li className="nav-item">
-            <NavLink className="nav-link" aria-current="page" to="sign-up">
-              Sign-Up
-            </NavLink>
-          </li>
-
-          <li className="nav-item">
-            <NavLink className="nav-link" aria-current="page" to="sign-in">
-              Sign-In
-            </NavLink>
-          </li>
-
           {user?.biz && (
             <li className="nav-item">
               <NavLink className="nav-link" to="/my-cards">

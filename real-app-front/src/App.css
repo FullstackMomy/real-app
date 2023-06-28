@@ -1,5 +1,11 @@
+* {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
 #inner-main {
-  /* background-image: url("https://cdn.pixabay.com/photo/2019/12/02/08/04/city-4667143_1280.jpg"); */
   background-image: url("https://cdn.pixabay.com/photo/2016/11/29/09/16/architecture-1868667_640.jpg");
   background-position: center center;
   background-size: cover;

@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 const Navbar = () => {
   const { user } = useAuth();
-  const [themeMode, setThemeMode] = useState("light");
+  const [themeMode, setThemeMode] = useState("dark");
   const htmlTag = document.getElementsByTagName("html")[0];
 
   useEffect(() => {

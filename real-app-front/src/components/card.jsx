@@ -23,9 +23,7 @@ const Card = ({
             <span className="btn btn-danger">Delete</span>
           </Link>
           <Link to={`/my-cards/view/${_id}`} className="card-link">
-            <span className="btn btn-warning">
-              <i className="bi bi-eye"></i>
-            </span>
+            <span className="btn btn-warning">View</span>
           </Link>
         </div>
       </div>

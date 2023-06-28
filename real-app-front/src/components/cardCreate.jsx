@@ -44,7 +44,7 @@ const CardCreate = () => {
         if (bizImage) {
           body.bizImage = bizImage;
         }
-        cardsService.createCard(body);
+        await cardsService.createCard(body);
         toast.success("card created successfully", {
           position: "top-right",
           autoClose: 3000,
