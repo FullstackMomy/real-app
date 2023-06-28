@@ -1,0 +1,42 @@
+#inner-main {
+  /* background-image: url("https://cdn.pixabay.com/photo/2019/12/02/08/04/city-4667143_1280.jpg"); */
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/29/09/16/architecture-1868667_640.jpg");
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  overflow-x: hidden;
+}
+#mainOverlay {
+  width: 100%;
+}
+
+html[data-bs-theme="light"] #mainOverlay {
+  background-color: #ffffff80;
+}
+
+html[data-bs-theme="dark"] #mainOverlay {
+  background-color: #00000080;
+}
+s html[data-bs-theme="dark"] .navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+html[data-bs-theme="dark"] p,
+html[data-bs-theme="dark"] span,
+html[data-bs-theme="dark"] i,
+html[data-bs-theme="dark"] h1,
+html[data-bs-theme="dark"] h2,
+html[data-bs-theme="dark"] h3,
+html[data-bs-theme="dark"] h5,
+html[data-bs-theme="dark"] a,
+html[data-bs-theme="dark"] label {
+  color: white;
+}
+#cardHover {
+  transition: all 0.2s ease-in-out;
+}
+
+#cardHover:hover {
+  transform: scale(1.1);
+  background-color: rgb(196, 160, 219);
+}
