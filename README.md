@@ -1,10 +1,10 @@
-# Your Biz Cards
+# BizCard4U
 
-![business](https://github.com/Talia18/react-app-project/assets/111443123/4e453fd9-4081-4a67-b434-1e1a1405b319)
+![business-cards-3152884_1280](https://github.com/FullstackMomy/real-app/assets/111432635/b1b0981c-be23-4aa7-8a3b-6c5eec060433)
 
 ## Description
 
-The site provides a service for people who are looking for work with business owners. On the site you will find cards of business owners who are with them.
+bizCard4U is an easy-to-use application with which you can create the ultimate business card. You can create new business cards, as well as delete and edit them as you wish. You can also add a picture and design easily and quickly.
 
 My motivation for building the site is to strengthen the relationship between employers and people so that they can create cooperation together to promote a common goal.
 
@@ -71,7 +71,7 @@ to run the application.
 
 ## Usage
 
-In the beginning of the site, you will see a pictures.
+In the beginning of the site, you will see a cards examples.
 
 The navbar includes some buttons: About, Sign-in and Sign-up.
 
