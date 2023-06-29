@@ -1,6 +1,6 @@
-# BizCard4U
+# Your Biz Cards
 
-![business](https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap)
+![business](https://github.com/Talia18/react-app-project/assets/111443123/4e453fd9-4081-4a67-b434-1e1a1405b319)
 
 ## Description
 
@@ -21,7 +21,7 @@ I built this site because when I was looking for businesses to work with it took
 - jwtDecode
 - toastify
 
-## 🚀 How to run it ?
+ ## 🚀 How to run it ?
 
 In order to install the project, you should clone the repo:
 
@@ -79,7 +79,7 @@ The navbar includes some buttons: About, Sign-in and Sign-up.
 
 At "Sign-up" page you can sign up to the system by two different titles:
 
-- As a regular customer
+- As a regular customer 
 - As a business customer.
 
 As a regular customer you will see only the "Home" page and the "About" page.
