@@ -37,7 +37,10 @@ const FullCard = () => {
                     to={`/my-cards`}
                     className="me-4 mt-4"
                   >
-                    <i className="bi bi-arrow-right-circle"></i>
+                    <i
+                      className="bi bi-arrow-right-circle"
+                      style={{ fontSize: "28px" }}
+                    ></i>
                   </Link>
                 </div>
               </div>

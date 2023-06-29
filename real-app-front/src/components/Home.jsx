@@ -26,29 +26,29 @@ const Home = () => {
             <div className="d-flex flex-wrap justify-content-around mt-3 gap-2">
               <FirstCardPresent
                 img={
-                  "https://er.isacs.eu/sites/default/files/flmngr/avatar-placeholder.png"
+                  "https://cdn.pixabay.com/photo/2018/01/31/09/42/people-3120717_640.jpg"
                 }
-                name={"Lior"}
-                description={"card creator manager"}
+                name={"Famelies Photos Card"}
+                description={"Business card for famelies photos"}
                 address={"Natania"}
                 phone={"0544768901"}
               />
               <FirstCardPresent
                 img={
-                  "https://er.isacs.eu/sites/default/files/flmngr/avatar-placeholder.png"
+                  "https://cdn.pixabay.com/photo/2017/08/06/20/11/wedding-2595862_640.jpg"
                 }
-                name={"Amir"}
-                description={"card creator "}
+                name={"Wedding Card"}
+                description={"Business wedding card"}
                 address={"Petach-Tikva"}
                 phone={"0544366701"}
               />
               <FirstCardPresent
                 img={
-                  "https://er.isacs.eu/sites/default/files/flmngr/avatar-placeholder.png"
+                  "https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_640.jpg"
                 }
-                name={"Ayala"}
-                description={"card creator suplayer"}
-                address={"Modiine"}
+                name={"Startup Card"}
+                description={"Business card for startup companies"}
+                address={"Modiin"}
                 phone={"0507806345"}
               />
             </div>
