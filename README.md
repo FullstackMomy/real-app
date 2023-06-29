@@ -1,6 +1,6 @@
-# Your Biz Cards
+# BizCard4U
 
-![business](https://github.com/Talia18/react-app-project/assets/111443123/4e453fd9-4081-4a67-b434-1e1a1405b319)
+![business](https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap)
 
 ## Description
 
